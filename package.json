@@ -1,0 +1,26 @@
+{
+  "name": "node-action-listener-bootstraper",
+  "version": "1.0.0",
+  "description": "Ready to clone repo to boostrap a nodejs project leveraging 'node-action-listener'",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObjectIsAdvantag/node-action-listener-bootstraper.git"
+  },
+  "author": "Stève Sfartz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ObjectIsAdvantag/node-action-listener-bootstraper/issues"
+  },
+  "homepage": "https://github.com/ObjectIsAdvantag/node-action-listener-bootstraper#readme",
+  "dependencies": {
+    "node-action-listener": "^1.0.3"
+  }
+}
